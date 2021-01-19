@@ -1,0 +1,19 @@
+Steps to run the model :
+
+1. Install anaconda and launch jupyter notebook.
+2. Extract file from zip file.
+3. Open the Autism folder and small autism file (still static and template is seen).
+4. Copy the path
+5. Open anaconda prompt and type cd C:\Users\POOJA\Desktop\Autism\Small_Autism (2) (1)\Small_Autism (2)\Small_Autism(like cd space path).
+6. Then type python app.py.
+7. When model starts running , open browser(incognito mode if crome) and then type localhost:5000.
+This is for front end execution
+
+
+For backend Code:
+
+1. Now open Autism file and copy the path.
+2. Open another anaconda promt.
+3. Type cd C:\Users\POOJA\Desktop\Autism(cd space path).
+4. Next type jupyter notebook.
+5. The open full model to view full code.
